@@ -14,10 +14,3 @@ A desktop-based graphical application built with Python (Tkinter) and MySQL that
 * **Interactive Dashboard:** Personalized user dashboard upon successful login (`dashboard.py`).
 * **Booking Module:** Intuitive interface to select vehicle models, categories, and calculate rental days (`booking.py`).
 * **Dynamic GUI:** Full-screen optimized graphical interfaces with image rendering.
-
-## 🚀 How to Run Locally
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/Vehicle-Rental-System.git](https://github.com/YOUR_USERNAME/Vehicle-Rental-System.git)
-   cd Vehicle-Rental-System
